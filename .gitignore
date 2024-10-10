@@ -1,0 +1,17 @@
+# Ignorar archivos ejecutables
+*.exe
+
+# Ignorar archivos comprimidos
+*.zip
+
+# Ignorar archivos temporales de Code Runner
+tempCodeRunnerFile.c
+
+# Ignorar la carpeta de configuración de VSCode
+.vscode/
+
+# Ignorar archivos PDF
+*.pdf
+
+# Ignorar archivos Word
+*.docx
